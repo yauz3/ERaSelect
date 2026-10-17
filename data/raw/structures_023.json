@@ -1,0 +1,806 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 66743,
+        "SMILES": "CCOC(=O)C1=CC=C(C=C1)C"
+      },
+      {
+        "CID": 66755,
+        "SMILES": "CCOC1=CC=CC=C1O"
+      },
+      {
+        "CID": 66760,
+        "SMILES": "C1=CC2=NNN=C2C=C1Cl"
+      },
+      {
+        "CID": 66793,
+        "SMILES": "COC1=CC(=C(C=C1)N)[N+](=O)[O-]"
+      },
+      {
+        "CID": 66826,
+        "SMILES": "C1=CC(=CC=C1[N+](=O)[O-])[As](=O)(O)O"
+      },
+      {
+        "CID": 66829,
+        "SMILES": "C1CN(CCN1)C(=S)S"
+      },
+      {
+        "CID": 66854,
+        "SMILES": "C[N+](C)(C)CC1=CC=CC=C1.[OH-]"
+      },
+      {
+        "CID": 66858,
+        "SMILES": "CCN(CC1=CC(=CC=C1)S(=O)(=O)O)C2=CC=CC=C2"
+      },
+      {
+        "CID": 66885,
+        "SMILES": "C1=CC(=CC(=C1)OCCO)OCCO"
+      },
+      {
+        "CID": 66909,
+        "SMILES": "C1=CC=C(C=C1)CNS(=O)(=O)C2=CC=C(C=C2)N"
+      },
+      {
+        "CID": 66912,
+        "SMILES": "C1=CC(=CC=C1OCCO)OCCO"
+      },
+      {
+        "CID": 66932,
+        "SMILES": "CC(C)CCCCCOC(=O)CCCCC(=O)OCCCCCC(C)C"
+      },
+      {
+        "CID": 67000,
+        "SMILES": "CC1(C(=O)NC(=O)N1CO)C"
+      },
+      {
+        "CID": 67005,
+        "SMILES": "CC1=C(C=C2C(=C1[N+](=O)[O-])C(CC2(C)C)(C)C)[N+](=O)[O-]"
+      },
+      {
+        "CID": 67045,
+        "SMILES": "C1C(=NN(C1=O)C2=CC=C(C=C2)S(=O)(=O)O)C(=O)O"
+      },
+      {
+        "CID": 67054,
+        "SMILES": "CC1=C(C=C(C=C1)N)S(=O)(=O)O"
+      },
+      {
+        "CID": 67058,
+        "SMILES": "CC1=CC(=C(C=C1)OC)[N+](=O)[O-]"
+      },
+      {
+        "CID": 67060,
+        "SMILES": "CC1=NN(C(=O)C1)C2=CC(=CC=C2)S(=O)(=O)O"
+      },
+      {
+        "CID": 67065,
+        "SMILES": "C1=CC=C(C=C1)NC2=CC3=CC(=CC(=C3C=C2)O)S(=O)(=O)O"
+      },
+      {
+        "CID": 67123,
+        "SMILES": "C1=CC=C(C=C1)C(=O)OCCOCCOCCOC(=O)C2=CC=CC=C2"
+      },
+      {
+        "CID": 67151,
+        "SMILES": "C1CN(CCN1CCO)CCO"
+      },
+      {
+        "CID": 67172,
+        "SMILES": "CC1=CC(=C(C=C1O)C)C2(C3=CC=CC=C3S(=O)(=O)O2)C4=C(C=C(C(=C4)C)O)C"
+      },
+      {
+        "CID": 67174,
+        "SMILES": "CC(CCC(=O)O)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O"
+      },
+      {
+        "CID": 67215,
+        "SMILES": "CN(C)C1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=C(C=C3)N(C)C"
+      },
+      {
+        "CID": 67236,
+        "SMILES": "C1=CC=C(C=C1)OC(=O)C2=C(C3=CC=CC=C3C=C2)O"
+      },
+      {
+        "CID": 67271,
+        "SMILES": "C1=CC=C(C=C1)C(=O)NC2=CC=CC=C2SSC3=CC=CC=C3NC(=O)C4=CC=CC=C4"
+      },
+      {
+        "CID": 67274,
+        "SMILES": "COC1=CC=CC=C1NC(=O)C2=CC3=CC=CC=C3C=C2O"
+      },
+      {
+        "CID": 67277,
+        "SMILES": "C1=CC=C2C=C(C(=CC2=C1)C(=O)NC3=CC(=CC=C3)[N+](=O)[O-])O"
+      },
+      {
+        "CID": 67284,
+        "SMILES": "COC1=CC(=C(C=C1)OC)OC"
+      },
+      {
+        "CID": 67285,
+        "SMILES": "CC(C)C1=CC2=C(C=C1)N=CC=C2"
+      },
+      {
+        "CID": 67299,
+        "SMILES": "C1=C(C(=CC(=C1O)Cl)Cl)O"
+      },
+      {
+        "CID": 67313,
+        "SMILES": "C1=CC(=CC=C1CN)S(=O)(=O)N.Cl"
+      },
+      {
+        "CID": 67322,
+        "SMILES": "C(CN(CCO)CCO)N(CCO)CCO"
+      },
+      {
+        "CID": 67329,
+        "SMILES": "CCCCOCCOC(=O)CCCCCCCCC(=O)OCCOCCCC"
+      },
+      {
+        "CID": 67349,
+        "SMILES": "C[Si](C1=CC=CC=C1)(C2=CC=CC=C2)Cl"
+      },
+      {
+        "CID": 67350,
+        "SMILES": "CC1=C(C(=C(C(=C1C)[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C"
+      },
+      {
+        "CID": 67406,
+        "SMILES": "CC1=CC(=CC=C1)OC(=O)C"
+      },
+      {
+        "CID": 67437,
+        "SMILES": "C1CCOC2(C1)CCCCO2"
+      },
+      {
+        "CID": 67533,
+        "SMILES": "CN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=CC=C3.Cl.Cl"
+      },
+      {
+        "CID": 67535,
+        "SMILES": "CC(C)N1C(=O)C2=CC=CC=C2C1=O"
+      },
+      {
+        "CID": 67542,
+        "SMILES": "C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O"
+      },
+      {
+        "CID": 67579,
+        "SMILES": "C1=CC=C(C=C1)C2=CC=CC=C2F"
+      },
+      {
+        "CID": 67589,
+        "SMILES": "C1=CC=C(C=C1)C(=O)CC(=O)C(F)(F)F"
+      },
+      {
+        "CID": 67678,
+        "SMILES": "C([C@@H](C(=O)O)N)SSC[C@@H](C(=O)O)N"
+      },
+      {
+        "CID": 67686,
+        "SMILES": "C1N(CSC(=S)N1CC2=CC=CC=C2)CC3=CC=CC=C3"
+      },
+      {
+        "CID": 67688,
+        "SMILES": "C1=CC(=C(C=C1[N+](=O)[O-])Cl)F"
+      },
+      {
+        "CID": 67818,
+        "SMILES": "C(=O)(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O"
+      },
+      {
+        "CID": 67821,
+        "SMILES": "C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O"
+      },
+      {
+        "CID": 67955,
+        "SMILES": "CNC1=NC=NC2=C1NC=N2"
+      },
+      {
+        "CID": 67967,
+        "SMILES": "C1=CC(=C(C=C1F)F)[N+](=O)[O-]"
+      },
+      {
+        "CID": 68023,
+        "SMILES": "C1=CC(=CC=C1C=O)F"
+      },
+      {
+        "CID": 68089,
+        "SMILES": "CCOC(=O)C1=CC(=NC2=C1C=C(C=C2)C)C3=CC=CC=C3"
+      },
+      {
+        "CID": 68093,
+        "SMILES": "CC(=O)OC1=CC=CC(=C1OC(=O)C)C(=O)O"
+      },
+      {
+        "CID": 68119,
+        "SMILES": "C1=COC(=C1)C(=O)C(=O)C2=CC=CO2"
+      },
+      {
+        "CID": 68186,
+        "SMILES": "C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCOC4=CC=C(C=C4)F"
+      },
+      {
+        "CID": 68191,
+        "SMILES": "CC(C)(CCl)C1=CC=CC=C1"
+      },
+      {
+        "CID": 68226,
+        "SMILES": "C1=CC=C2C(=C1)C(=C3C=CC=CC3=C2Br)Br"
+      },
+      {
+        "CID": 68236,
+        "SMILES": "CC1=NC2=CC=CC=C2C(=O)O1"
+      },
+      {
+        "CID": 68289,
+        "SMILES": "C1OC2=C(O1)C=C(C=C2)O"
+      },
+      {
+        "CID": 68297,
+        "SMILES": "C1=CC=C(C=C1)NC2=CC=CC=C2N"
+      },
+      {
+        "CID": 68304,
+        "SMILES": "CCCCOC1=CC=C(C=C1)C(=O)CCN2CCCCC2.Cl"
+      },
+      {
+        "CID": 68310,
+        "SMILES": "CC(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O"
+      },
+      {
+        "CID": 68313,
+        "SMILES": "CN(C)CCC1=CC=C(C=C1)O"
+      },
+      {
+        "CID": 68363,
+        "SMILES": "CCOC1=CC(=CC(=C1OCC)OCC)C2=NC=CC3=CC(=C(C=C32)OC)OC"
+      },
+      {
+        "CID": 68385,
+        "SMILES": "CN(C)CCOC1=CC=C(C=C1)CNC(=O)C2=CC(=C(C(=C2)OC)OC)OC.Cl"
+      },
+      {
+        "CID": 68526,
+        "SMILES": "C1=CC=C(C=C1)OCCBr"
+      },
+      {
+        "CID": 68527,
+        "SMILES": "C1=CC(=CC=C1CBr)Br"
+      },
+      {
+        "CID": 68539,
+        "SMILES": "CN(C)CCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl.Cl"
+      },
+      {
+        "CID": 68547,
+        "SMILES": "C1=CC(=CC=C1N=C=S)OC2=CC=C(C=C2)[N+](=O)[O-]"
+      },
+      {
+        "CID": 68549,
+        "SMILES": "CCN(CCN1C(=NC2=C1C(=O)N(C(=O)N2C)C)CC3=CC=CC=C3)CCO.Cl"
+      },
+      {
+        "CID": 68552,
+        "SMILES": "C1CCC2(CC1)OCC(O2)CN=C(N)N.C1CCC2(CC1)OCC(O2)CN=C(N)N.OS(=O)(=O)O"
+      },
+      {
+        "CID": 68570,
+        "SMILES": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@H]2O)CCC4=C3C=CC(=C4)O"
+      },
+      {
+        "CID": 68589,
+        "SMILES": "C1=CC(=CC=C1COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl.[N+](=O)(O)[O-]"
+      },
+      {
+        "CID": 68600,
+        "SMILES": "CC1=CC(=CC(=C1)C(=O)OC2C[C@H]3CC[C@@H](C2)N3C)C"
+      },
+      {
+        "CID": 68601,
+        "SMILES": "CC1=C(C(=CC=C1)C(C)C2=CN=CN2)C.Cl"
+      },
+      {
+        "CID": 68610,
+        "SMILES": "C1=CC(=CC=C1C(=O)O)OCCCOC2=CC=C(C=C2)C(=O)O"
+      },
+      {
+        "CID": 68624,
+        "SMILES": "CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O.Cl"
+      },
+      {
+        "CID": 68626,
+        "SMILES": "C1CN(CCC12CNC(=O)O2)CCC3=CC=CC=C3.Cl"
+      },
+      {
+        "CID": 68651,
+        "SMILES": "CC(=O)CCC(=O)[O-].CC(=O)CCC(=O)[O-].O.O.[Ca+2]"
+      },
+      {
+        "CID": 68654,
+        "SMILES": "C1=CC=NC(=C1)C(C2=CC=C(C=C2)OS(=O)(=O)[O-])C3=CC=C(C=C3)OS(=O)(=O)[O-].[Na+].[Na+]"
+      },
+      {
+        "CID": 68662,
+        "SMILES": "COC(=O)CC[C@@H](C(=O)O)N"
+      },
+      {
+        "CID": 68664,
+        "SMILES": "C1CN(CCN1CC2=CC=CC=C2)C(=O)C3=CC4=CC=CC=C4O3"
+      },
+      {
+        "CID": 68706,
+        "SMILES": "C1=CC=C(C=C1)N2C=C(C(=N2)C3=CC=C(C=C3)Cl)CC(=O)O"
+      },
+      {
+        "CID": 68712,
+        "SMILES": "C1CC1C(C2CC2)NC3=NCCO3"
+      },
+      {
+        "CID": 68713,
+        "SMILES": "CN1CCN2C3=C(C=C(C=C3)OC)C4=C2C1=NCC4"
+      },
+      {
+        "CID": 68736,
+        "SMILES": "C1CN[C@@H](C[C@@H]1CP(=O)(O)O)C(=O)O"
+      },
+      {
+        "CID": 68740,
+        "SMILES": "C1=CN(C=N1)CC(O)(P(=O)(O)O)P(=O)(O)O"
+      },
+      {
+        "CID": 68741,
+        "SMILES": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC=C4[C@@]3(CCC(=C4)C(=O)O)C"
+      },
+      {
+        "CID": 68770,
+        "SMILES": "CC(C)(C)NCC(COC1=CC=C(C=C1)NC(=O)NC2CCCCC2)O"
+      },
+      {
+        "CID": 68781,
+        "SMILES": "C[C@@H]1CC2=CC3=C(C(=C2C4=C(C(=C(C=C4C[C@@]1(C)O)OC)OC)OC)OC)OCO3"
+      },
+      {
+        "CID": 68791,
+        "SMILES": "C1C2N1C(=O)N=C2N"
+      },
+      {
+        "CID": 68827,
+        "SMILES": "C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C"
+      },
+      {
+        "CID": 68835,
+        "SMILES": "C1CCC(CC1)NC(=O)CN2CCNCC2"
+      },
+      {
+        "CID": 68841,
+        "SMILES": "C([C@@H](C(=O)O)N)OP(=O)(O)O"
+      },
+      {
+        "CID": 68844,
+        "SMILES": "CCN[C@H]1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)CCCOC"
+      },
+      {
+        "CID": 68848,
+        "SMILES": "CN1C[C@H](C[C@H]2[C@H]1CC3=CN(C4=CC=CC2=C34)C)NS(=O)(=O)N(C)C"
+      },
+      {
+        "CID": 68872,
+        "SMILES": "CC1=CC(=O)OC2=C1C=CC(=C2)OCC#C"
+      },
+      {
+        "CID": 68873,
+        "SMILES": "C[C@]12CCC(=O)C=C1[C@@H]3C[C@@H]3[C@@H]4[C@@H]2CC[C@]5([C@H]4[C@@H]6C[C@@H]6[C@@]57CCC(=O)O7)C"
+      },
+      {
+        "CID": 68888,
+        "SMILES": "CC(C)(C)C(=O)NCCCC(=O)O"
+      },
+      {
+        "CID": 68907,
+        "SMILES": "CCNC(=O)NCC1=CC(=CC=C1)Cl"
+      },
+      {
+        "CID": 68909,
+        "SMILES": "CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2OC(F)F)C(=O)OC"
+      },
+      {
+        "CID": 68911,
+        "SMILES": "C[C@@H]1CC[C@H]2[C@H]([C@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)OC)C"
+      },
+      {
+        "CID": 68928,
+        "SMILES": "CC(CCCNC1=C2C(=CC(=C1)OC)C=CC=N2)N"
+      },
+      {
+        "CID": 68939,
+        "SMILES": "C1=C(C=C(C(=C1S(=O)C2=C(C(=CC(=C2)Cl)Cl)O)O)Cl)Cl"
+      },
+      {
+        "CID": 68940,
+        "SMILES": "CC(=O)OCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)CC3=CC=CC=C3)SC1)C(=O)O"
+      },
+      {
+        "CID": 68942,
+        "SMILES": "C1=CC=C2C(=C1)C(=O)C(C2=O)C3=CC=C(C=C3)F"
+      },
+      {
+        "CID": 68943,
+        "SMILES": "C1CCN(C1)CC#CC(C2=CC=CC=C2)(C3=CC=CC=C3)O"
+      },
+      {
+        "CID": 68947,
+        "SMILES": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C(C(=O)CC[C@]34C)Cl"
+      },
+      {
+        "CID": 68952,
+        "SMILES": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCC4)CCC5=C(C(=O)CC[C@H]35)O"
+      },
+      {
+        "CID": 69026,
+        "SMILES": "C([N+](=O)[O-])(Br)Br"
+      },
+      {
+        "CID": 69027,
+        "SMILES": "CC(C)(C)C(=O)OC"
+      },
+      {
+        "CID": 69091,
+        "SMILES": "CC1=CC=C(C=C1)OC(=O)C2=CC=CC=C2O"
+      },
+      {
+        "CID": 69092,
+        "SMILES": "CCCOC(=O)C1=CC=CC=C1O"
+      },
+      {
+        "CID": 69144,
+        "SMILES": "CC(C)C(=O)C1=CC=CC=C1"
+      },
+      {
+        "CID": 69150,
+        "SMILES": "C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)O)O"
+      },
+      {
+        "CID": 69188,
+        "SMILES": "CCOC(=O)C1=CN=CC=C1"
+      },
+      {
+        "CID": 69229,
+        "SMILES": "CCOC1=CC(=C(C=C1)N)[N+](=O)[O-]"
+      },
+      {
+        "CID": 69297,
+        "SMILES": "C1=CC=C(C=C1)CN(CC2=CC=CC=C2)O"
+      },
+      {
+        "CID": 69301,
+        "SMILES": "COC1=CC(=CC(=C1)OC)OC"
+      },
+      {
+        "CID": 69311,
+        "SMILES": "CCCOC(OCCC)OCCC"
+      },
+      {
+        "CID": 69317,
+        "SMILES": "C1=CC=C(C=C1)SCCSC2=CC=CC=C2"
+      },
+      {
+        "CID": 69413,
+        "SMILES": "C(C#N)NCC#N"
+      },
+      {
+        "CID": 69484,
+        "SMILES": "CCOC(=O)CC(=O)CCl"
+      },
+      {
+        "CID": 69508,
+        "SMILES": "C1=CC=C2C(=C1)C=C(C(=N2)C(=O)O)C(=O)O"
+      },
+      {
+        "CID": 69537,
+        "SMILES": "C(CO)C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F"
+      },
+      {
+        "CID": 69588,
+        "SMILES": "C1=CC=C(C=C1)C2=C(N=CN2)C3=CC=CC=C3"
+      },
+      {
+        "CID": 69594,
+        "SMILES": "C1=CC(=C(C=C1S(=O)(=O)N)S(=O)(=O)N)Cl"
+      },
+      {
+        "CID": 69619,
+        "SMILES": "C(CO)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F"
+      },
+      {
+        "CID": 69627,
+        "SMILES": "CCCO[Si](OCCC)(OCCC)OCCC"
+      },
+      {
+        "CID": 69685,
+        "SMILES": "C1=CC=C(C=C1)SCCO"
+      },
+      {
+        "CID": 69705,
+        "SMILES": "COC1=CC=C(C=C1)CCO"
+      },
+      {
+        "CID": 69765,
+        "SMILES": "CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)[N+](=O)[O-]"
+      },
+      {
+        "CID": 69779,
+        "SMILES": "C1=CC=C(C=C1)OC(=O)C2=CC(=CC=C2)C(=O)OC3=CC=CC=C3"
+      },
+      {
+        "CID": 69785,
+        "SMILES": "C(C(C(C(C(F)(F)S(=O)(=O)N)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F"
+      },
+      {
+        "CID": 69819,
+        "SMILES": "CCCCCCCCC(=O)Cl"
+      },
+      {
+        "CID": 69827,
+        "SMILES": "CCCCCCCCCCCCSC#N"
+      },
+      {
+        "CID": 69861,
+        "SMILES": "CC(C)(C)C1=CC=C(C=C1)N"
+      },
+      {
+        "CID": 69885,
+        "SMILES": "CC(=O)C1=CC2=C(CCCC2)C=C1"
+      },
+      {
+        "CID": 69908,
+        "SMILES": "CC(=O)C1=CC2=C(C=C1)C3=CC=CC=C3C2"
+      },
+      {
+        "CID": 69917,
+        "SMILES": "C1=CC(=CC=C1C(=O)NC2=CC=C(C=C2)N)N"
+      },
+      {
+        "CID": 69985,
+        "SMILES": "C1=CC=C(C(=C1)[N+](=O)[O-])[O-].[Na+]"
+      },
+      {
+        "CID": 69990,
+        "SMILES": "C1=CC=C(C=C1)P(=O)(Cl)Cl"
+      },
+      {
+        "CID": 70014,
+        "SMILES": "C1=CC(=CC(=C1)[N+](=O)[O-])C(=O)[O-].[Na+]"
+      },
+      {
+        "CID": 70038,
+        "SMILES": "C1=CC=C(C(=C1)C(=O)C2=CC=CC=C2O)O"
+      },
+      {
+        "CID": 70151,
+        "SMILES": "C1CCN(CC1)CN2CCCCC2"
+      },
+      {
+        "CID": 70213,
+        "SMILES": "CC(C)OC(=O)CCC(=O)OC(C)C"
+      },
+      {
+        "CID": 70223,
+        "SMILES": "C(COS(=O)(=O)O)N"
+      },
+      {
+        "CID": 70248,
+        "SMILES": "C(COCCOCCN)N"
+      },
+      {
+        "CID": 70262,
+        "SMILES": "CCC1=NC=C(N1)C"
+      },
+      {
+        "CID": 70308,
+        "SMILES": "CC(C)(C)C(=O)C1=CC=CC=C1"
+      },
+      {
+        "CID": 70315,
+        "SMILES": "CN1C(=O)C2=C(N=CN2)N=C1N"
+      },
+      {
+        "CID": 70324,
+        "SMILES": "CC(C)(C)C1=CC=C(C=C1)C=O"
+      },
+      {
+        "CID": 70355,
+        "SMILES": "C1CCC(CC1)(C(=O)C2=CC=CC=C2)O"
+      },
+      {
+        "CID": 70374,
+        "SMILES": "C1COCCN1CNC(=O)C2=NC=CN=C2"
+      },
+      {
+        "CID": 70381,
+        "SMILES": "CNC(=O)C(C1=CC=CC=C1)C2=CC=CC=C2"
+      },
+      {
+        "CID": 70400,
+        "SMILES": "B(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3"
+      },
+      {
+        "CID": 70414,
+        "SMILES": "C1CCN(CC1)C(=S)SSSSSSC(=S)N2CCCCC2"
+      },
+      {
+        "CID": 70425,
+        "SMILES": "CC(C)(C)C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3"
+      },
+      {
+        "CID": 70438,
+        "SMILES": "CC[Ge](CC)(CC)Cl"
+      },
+      {
+        "CID": 70452,
+        "SMILES": "CC(C)N(C)C"
+      },
+      {
+        "CID": 70613,
+        "SMILES": "C=CC(=O)OCCCCOC(=O)C=C"
+      },
+      {
+        "CID": 70700,
+        "SMILES": "CC(C)(C)C(=O)CC(=O)C(C)(C)C"
+      },
+      {
+        "CID": 70724,
+        "SMILES": "C1=C[N+](=CC=C1Cl)[O-]"
+      },
+      {
+        "CID": 70754,
+        "SMILES": "CC1=CC(=C(C=C1C)Cl)O"
+      },
+      {
+        "CID": 70755,
+        "SMILES": "CC1=CC(=C(C=C1Cl)C)Cl"
+      },
+      {
+        "CID": 70763,
+        "SMILES": "C1CCC(CC1)CCCO"
+      },
+      {
+        "CID": 70801,
+        "SMILES": "CC1=NN(C(=C1)N)C2=CC=CC=C2"
+      },
+      {
+        "CID": 70807,
+        "SMILES": "C1COCCN1CCCS(=O)(=O)O"
+      },
+      {
+        "CID": 70811,
+        "SMILES": "C1(=C(C(=NC(=C1Cl)Cl)C(Cl)(Cl)Cl)Cl)Cl"
+      },
+      {
+        "CID": 70837,
+        "SMILES": "C1=CC=C(C=C1)C(=O)C2=C(C(=C(C=C2)O)O)O"
+      },
+      {
+        "CID": 70846,
+        "SMILES": "C1=CC=C2C(=C1)C(=O)C(C2=O)C3=CC=C(C=C3)Cl"
+      },
+      {
+        "CID": 70912,
+        "SMILES": "CC(C)C[C@@H](C(=O)O)NC(=O)C"
+      },
+      {
+        "CID": 70914,
+        "SMILES": "CC(=O)N[C@@H](CCC(=O)O)C(=O)O"
+      },
+      {
+        "CID": 70916,
+        "SMILES": "CC(CCOC(=O)C(=C)C)OC(=O)C(=C)C"
+      },
+      {
+        "CID": 70962,
+        "SMILES": "C[C@@H]1CC[C@@H](C(=O)C1)C(C)C"
+      },
+      {
+        "CID": 71027,
+        "SMILES": "C1=CC=C(C=C1)C(=CC=O)C2=CC=CC=C2"
+      },
+      {
+        "CID": 71077,
+        "SMILES": "C([C@H](C(=O)O)N)O"
+      },
+      {
+        "CID": 71080,
+        "SMILES": "C[C@H](C(=O)O)N"
+      },
+      {
+        "CID": 71113,
+        "SMILES": "CCCC(CCC)C(=O)N"
+      },
+      {
+        "CID": 71128,
+        "SMILES": "CCN(CC)CCOC(=O)C(C)(C1=CC=CC=C1)C2=CC=CC=C2"
+      },
+      {
+        "CID": 71157,
+        "SMILES": "CC1=C(C(=CC=C1)C)NC(=O)CN2CCCC2=O"
+      },
+      {
+        "CID": 71172,
+        "SMILES": "CC(C)NCC(COC1=CC=CC=C1OCC=C)O.Cl"
+      },
+      {
+        "CID": 71188,
+        "SMILES": "CCN1CCN(CC1)C2=C(C=C3C(=C2)N(C=C(C3=O)C(=O)O)C4CC4)F"
+      },
+      {
+        "CID": 71203,
+        "SMILES": "CC[C@@]12CCCN3[C@@H]1C4=C(CC3)C5=CC=CC=C5N4C(=O)C2"
+      },
+      {
+        "CID": 71208,
+        "SMILES": "CC1=C2C=CC=NC2=C(C=C1)O"
+      },
+      {
+        "CID": 71234,
+        "SMILES": "CC(CNC(=O)C1=CN=CC=C1)NC(=O)C2=CN=CC=C2"
+      },
+      {
+        "CID": 71245,
+        "SMILES": "CCOC1=CC=C(C=C1)C(C)(C)COCC2=CC(=CC=C2)OC3=CC=CC=C3"
+      },
+      {
+        "CID": 71264,
+        "SMILES": "CCOC(=O)NC1=CC2=C(CCC3=CC=CC=C3N2C(=O)CN(C)C)C=C1"
+      },
+      {
+        "CID": 71267,
+        "SMILES": "CC1=C(C(=CC=C1)C)NC(=O)CN2CCCCCC2"
+      },
+      {
+        "CID": 71277,
+        "SMILES": "CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)OC(=O)CC)(C)O)C)C)O)(C)O"
+      },
+      {
+        "CID": 71285,
+        "SMILES": "CC(CC1=CC2=C(C=C1)OCO2)NC.Cl"
+      },
+      {
+        "CID": 71310,
+        "SMILES": "CCC1(CC2=CC=CC=C2C1)C3=CN=CN3"
+      },
+      {
+        "CID": 71321,
+        "SMILES": "CC1=C(OC(=N1)C2=CC=C(C=C2)Cl)COC(C)(C)C(=O)O"
+      },
+      {
+        "CID": 71329,
+        "SMILES": "CN(CCC1=CC=C(C=C1)NS(=O)(=O)C)CCOC2=CC=C(C=C2)NS(=O)(=O)C"
+      },
+      {
+        "CID": 71335,
+        "SMILES": "CN1C[C@@H]2C[C@H]1CN2C3=C(C=C4C(=C3)N(C=C(C4=O)C(=O)O)C5CC5)F"
+      },
+      {
+        "CID": 71339,
+        "SMILES": "C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1SC3CN4C=NC=[N+]4C3)C(=O)[O-])[C@@H](C)O"
+      },
+      {
+        "CID": 71346,
+        "SMILES": "CS(=O)(=O)O.C1CCC2(C1)CC(=O)N(C(=O)C2)CCNCC3COC4=CC=CC=C4O3"
+      },
+      {
+        "CID": 71360,
+        "SMILES": "CC(=O)C1=CC(=C(C=C1)OCCCN2CCC(CC2)C3=NOC4=C3C=CC(=C4)F)OC"
+      },
+      {
+        "CID": 71384,
+        "SMILES": "C[C@@H](CN1CC(=O)NC(=O)C1)N2CC(=O)NC(=O)C2"
+      },
+      {
+        "CID": 71386,
+        "SMILES": "CCCC(=O)O[C@@]1([C@H](C[C@@H]2[C@@]1(CC(=O)[C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)C)C)C(=O)CCl"
+      }
+    ]
+  }
+}
